@@ -4,10 +4,7 @@ CS 340 README
 Taro Serigano
 3/27/2021
 
-Use this template to complete your README file. When completing the template, keep the headings as they are so that your document has a clear organization. Remove the italicized prompt text after you have completed each section for a polished final document.
-
-About the Project/Project Title
-Provide a little information about your project or an overview that explains what the project is about.
+OBJECTIVES
 
 This school project is building the architecture that lets you build and manage MongoDB databases that is connected to the application. We will also implement Create, Read, Delete and Update functionality known as CRUD in order to keep the data in the database organized and provide the best performance of the database system.
 
